@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'TAIPEISANSTCBETA-BOLD';
+   font-display: swap;
+   src: url('TAIPEISANSTCBETA-BOLD/font.TTF');
+}
+@font-face {
+   font-family: 'TAIPEISANSTCBETA-REGULAR';
+   font-display: swap;
+   src: url('TAIPEISANSTCBETA-REGULAR/font.TTF');
+}
